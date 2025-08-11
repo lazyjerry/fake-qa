@@ -1,0 +1,101 @@
+10. Delivery Times & Logistics Issues
+
+Q10-1: How long does it normally take to receive products?
+
+A10-1: Delivery timeframes:
+
+Home Delivery Service:
+- Room temperature/refrigerated/frozen delivery: 1-3 business days after shipment
+- Convenience store pickup: 2-4 days after shipment for pickup
+- Pre-order products: Based on estimated shipping date indicated on product page
+
+Delays: During holiday peaks (Mid-Autumn Festival, Chinese New Year) or weather factors, delivery times may be extended.
+
+------------------------------------------------------------------------
+
+Q10-2: Will I be notified after shipment?
+
+A10-2: Yes. After shipment completion, the system will notify you via:
+- SMS, Email, or APP push notifications
+- Provide logistics tracking code and query link
+
+------------------------------------------------------------------------
+
+Q10-3: Can I specify a delivery date?
+
+A10-3: You can select "Specify Delivery Date" during checkout (home delivery only).
+
+Restrictions:
+- Must avoid Sundays and national holidays
+- Some remote areas don't support precise date delivery
+
+------------------------------------------------------------------------
+
+Q10-4: Why is my delivery delayed?
+
+A10-4: Common reasons:
+- Weather impacts (typhoons, heavy rain, extreme temperature warnings)
+- Holiday order volume surges
+- Logistics route adjustments or staff shortages
+- Remote areas requiring additional delivery time
+
+Resolution: Customer service will notify you of delays and help track progress.
+
+------------------------------------------------------------------------
+
+Q10-5: What should I do if my package shows "delivery exception"?
+
+A10-5: Processing steps:
+
+1. First check the exception reason in the logistics query link (incorrect address, recipient not available, etc.)
+2. Contact logistics or customer service as prompted to help rearrange delivery
+
+------------------------------------------------------------------------
+
+Q10-6: What if temperature zone delivery fails (e.g., frozen becomes refrigerated)?
+
+A10-6: Please upon delivery:
+
+1. Take photos immediately and contact customer service
+2. After confirmation, we can arrange:
+   - Refund
+   - Replacement shipment
+   - Other compensation options
+
+------------------------------------------------------------------------
+
+Q10-7: My package shows delivered but I didn't receive it?
+
+A10-7: Please first confirm:
+
+Check Items:
+- Whether family members or neighbors received it
+- Whether it was stored at management office/convenience store
+
+Still Can't Find: Please immediately contact customer service and logistics company for investigation.
+
+------------------------------------------------------------------------
+
+Q10-8: Can delivery time be shortened?
+
+A10-8: Some areas offer premium services:
+- Next-day delivery
+- Express service
+
+Restrictions: Depends on product category and temperature zone, please confirm with customer service before ordering.
+
+------------------------------------------------------------------------
+
+Q10-9: If pre-order products are delayed, can orders be split to ship other items first?
+
+A10-9: Yes, please contact customer service to help split the order.
+
+Fee Information: Additional shipping fees may need to be borne by you (depending on promotions or free shipping conditions).
+
+------------------------------------------------------------------------
+
+Q10-10: Will delivery continue during typhoon days?
+
+A10-10: According to Central Weather Bureau announcements and logistics company safety regulations:
+
+Work/School Suspension Days: If work/school suspension is announced for that day, delivery in that area will be suspended and postponed until weather permits.

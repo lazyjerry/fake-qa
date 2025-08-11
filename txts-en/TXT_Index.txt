@@ -1,0 +1,78 @@
+Fresh Delights Online Grocery Store QA TXT File Index
+
+File List
+
+This directory contains 26 TXT files covering a complete e-commerce customer service Q&A knowledge base:
+
+Overview
+- Directory.txt - Complete category overview
+
+Account Functions
+- 1.Account_and_Login.txt - Registration, login, password-related issues
+
+Shopping Experience
+- 2.Product_Browsing_and_Search.txt - Categorization, filtering, sorting, comparison functions
+- 3.Product_Information.txt - Origin, specifications, weight, storage methods, etc.
+- 4.Inventory_Pre-orders_and_Arrival_Notifications.txt - Out-of-stock subscriptions, estimated arrival dates
+- 5.Pricing_and_Promotions.txt - Discounts, coupons, minimum purchase deals, etc.
+- 6.Shopping_Cart_and_Checkout_Process.txt - Notes, gift wrapping, invoice information entry
+
+Payment & Invoicing
+- 7.Payment_Methods.txt - Various payment options and installment services
+- 8.Electronic_Invoices_and_Expense_Reporting.txt - Carriers, company headers, triplicate invoices
+
+Logistics & Delivery
+- 9.Delivery_Options.txt - Cold chain delivery, shipping fees, free shipping thresholds
+- 10.Delivery_Times_and_Logistics_Issues.txt - Delays, weather impacts, delivery restrictions
+- 11.Packaging_and_Freshness.txt - Cooling materials, dry ice, eco-friendly packaging
+- 12.Pickup_and_Inspection.txt - On-site inspection, temperature breach handling
+
+After-sales Service
+- 13.Returns_and_Refunds.txt - Fresh produce return policies, refund processes
+- 14.Out_of_Stock_and_Alternative_Solutions.txt - Equivalent product substitutions, partial shipments
+- 15.Customer_Service_and_After-sales.txt - Contact channels, response hours
+
+Member Services
+- 16.Membership_and_Points.txt - Tier systems, reward mechanisms, referral codes
+- 17.Subscription_Regular_Delivery.txt - Cycle changes, skip orders, pause/cancel
+
+Safety & Quality
+- 18.Food_Safety_and_Allergy_Information.txt - Ingredient labeling, inspection reports, organic certification
+- 19.Special_Items.txt - Live seafood, fresh catch pre-orders, custom cuts
+
+Corporate Services
+- 20.Bulk_Corporate_Purchasing.txt - Quote processes, monthly billing services, customization
+
+Marketing Activities
+- 21.Events_and_Marketing.txt - Seasonal pre-orders, early bird offers, flash sales
+
+Community Interaction
+- 22.User_Reviews_and_Community_Guidelines.txt - Review mechanisms, moderation standards
+
+Account Security
+- 23.Account_Settings_and_Security.txt - Password reset, two-factor authentication, privacy
+
+Technical Support
+- 24.Device_Technical_Issues.txt - APP/browser issues, payment failure troubleshooting
+- 25.Regional_and_Cross-border.txt - Offshore delivery restrictions, temperature zone limitations, customs explanations
+
+Usage Statistics
+- Total files: 26 TXT files
+- Coverage: 25 main categories + 1 directory overview
+- Target audience: E-commerce professionals, customer service teams, product managers
+
+Usage Recommendations
+1. Read "Directory.txt" first to understand the overall structure
+2. Select relevant categories based on business needs
+3. Can be used as customer service training materials
+4. Plain text format facilitates searching and editing
+5. Suitable for importing into various systems or databases
+
+TXT Format Advantages
+- Small file size, fast opening speed
+- Excellent compatibility, can be opened by any text editor
+- Easy to search and batch process
+- Suitable for programmatic processing and data analysis
+- No formatting interference, focus on content itself
+
+Generation time: August 11, 2025

@@ -1,0 +1,102 @@
+23. Account Settings & Security
+
+Q23-1: How do I modify personal information?
+
+A23-1: Modification process:
+
+1. Log in to member account → Account Settings
+2. Edit name, contact phone, email, delivery address, and other information
+3. Changes take effect immediately after saving
+
+------------------------------------------------------------------------
+
+Q23-2: Can I link multiple delivery addresses?
+
+A23-2: Yes, you can add multiple delivery addresses in the Address Book:
+- Quick selection during checkout
+- Can set default address
+
+------------------------------------------------------------------------
+
+Q23-3: How do I change my login password?
+
+A23-3: Change steps:
+
+1. Go to Account Security → Change Password
+2. Enter old password and new password
+
+Recommendation: Change every 3-6 months and use strong passwords
+
+------------------------------------------------------------------------
+
+Q23-4: What should I do if I forget my password?
+
+A23-4: Click "Forgot Password" on the login page:
+
+1. Enter registered email or phone number
+2. Follow system instructions to reset password
+
+------------------------------------------------------------------------
+
+Q23-5: Can I enable two-factor authentication (2FA)?
+
+A23-5: Yes, enable 2FA in Account Security:
+
+Verification Methods:
+- SMS verification code
+- Authenticator app (Google Authenticator, etc.)
+
+Purpose: Enhance login security
+
+------------------------------------------------------------------------
+
+Q23-6: How do I view account login records?
+
+A23-6: In Account Security you can view:
+- Recent login times
+- Devices and IP addresses
+
+Exception Handling: If abnormalities are found, immediately log out that device and change password
+
+------------------------------------------------------------------------
+
+Q23-7: What should I do if I discover my account has been compromised?
+
+A23-7: Emergency handling steps:
+
+1. Immediately change password
+2. Log out all devices
+3. Contact customer service to help freeze account
+4. Recommend checking security of your email and other linked accounts
+
+------------------------------------------------------------------------
+
+Q23-8: How do I delete my account and personal data?
+
+A23-8: Apply for account deletion in Privacy Settings:
+
+Important Notes:
+- Cannot be recovered after deletion
+- Points, coupons, and order history will be cleared
+- Transaction data required by law will be de-identified and retained
+
+------------------------------------------------------------------------
+
+Q23-9: How does the website protect my personal data?
+
+A23-9: Our protection measures:
+- SSL encryption
+- Database permission hierarchical management
+- Regular security risk assessments according to Personal Data Protection Act and related regulations
+
+------------------------------------------------------------------------
+
+Q23-10: Will personal data be shared with third parties?
+
+A23-10: Only when necessary:
+
+Sharing Situations:
+- Necessary situations such as delivery, payment, system maintenance
+- Share necessary information with partners under signed confidentiality agreements
+
+Guarantee: Will not sell or arbitrarily leak your personal data

@@ -1,0 +1,88 @@
+25. Regional & Cross-border
+
+Q25-1: What areas does the delivery coverage include?
+
+A25-1: Currently providing:
+
+Taiwan Main Island: Full coverage delivery
+
+Offshore Islands: Some products support delivery to offshore islands (Penghu, Kinmen, Matsu, Green Island, Orchid Island, etc.)
+
+Restrictions: But may have limitations based on temperature zones and product types
+
+------------------------------------------------------------------------
+
+Q25-2: Are there additional shipping fees for offshore island areas?
+
+A25-2: Yes, varies by logistics company and temperature zone:
+- Offshore islands incur additional shipping fees of approximately NT$150-300
+- Actual amounts are automatically calculated and displayed during checkout
+
+------------------------------------------------------------------------
+
+Q25-3: Which products cannot be delivered to offshore islands or remote areas?
+
+A25-3: Restricted products:
+- Live seafood (due to preservation time limitations)
+- Frozen or refrigerated products with high time-sensitive requirements
+- Large or overweight products
+
+How to Check: Specific restrictions are clearly indicated on product pages
+
+------------------------------------------------------------------------
+
+Q25-4: Do you currently provide overseas shipping?
+
+A25-4: Cross-border shipping is not currently supported.
+
+Overseas Needs: For overseas ordering needs, please contact customer service to evaluate project cooperation
+
+------------------------------------------------------------------------
+
+Q25-5: Can deliveries be made to P.O. boxes?
+
+A25-5: No, home delivery and cold chain delivery require personal signature.
+
+Alternative: Convenience store pickup can serve as an alternative
+
+------------------------------------------------------------------------
+
+Q25-6: Do remote areas take longer for delivery?
+
+A25-6: Yes:
+- Remote areas and offshore islands usually require 3-7 business days
+- May be delayed due to poor weather conditions
+
+------------------------------------------------------------------------
+
+Q25-7: Do you support international order purchasing services?
+
+A25-7: Direct international ordering services are not currently provided.
+
+Alternative: However, orders can be placed through Taiwan-based forwarding services
+
+------------------------------------------------------------------------
+
+Q25-8: How are customs duties and quarantine handled for cross-border shipping?
+
+A25-8: If cross-border shipping becomes available in the future:
+- Customs duties, quarantine, and import regulations will follow receiving country requirements
+- Recipients are responsible for related fees and customs clearance documents
+
+------------------------------------------------------------------------
+
+Q25-9: Are there regional limited-time free shipping activities?
+
+A25-9: Free shipping promotions are offered for specific counties/cities or offshore islands.
+
+Announcement Method: Activity periods and conditions are announced on the website in advance
+
+------------------------------------------------------------------------
+
+Q25-10: How do I confirm if my address is deliverable?
+
+A25-10: Confirmation method:
+
+1. Enter complete address on checkout page
+2. System automatically determines delivery availability and calculates shipping fees
+3. If "Delivery Not Supported" appears, recommend changing delivery method or contacting customer service for confirmation

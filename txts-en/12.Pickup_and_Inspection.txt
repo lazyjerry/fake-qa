@@ -1,0 +1,102 @@
+12. Pickup & Inspection
+
+Q12-1: Do I need to sign for home delivery in person?
+
+A12-1: We recommend signing in person and checking the outer box and product condition.
+
+Proxy Collection Note: If delegating someone else to receive, please instruct them to inspect goods and maintain packaging integrity.
+
+------------------------------------------------------------------------
+
+Q12-2: What is the convenience store pickup process?
+
+A12-2: Pickup process:
+
+1. After receiving SMS or APP push notification
+2. Within 7 days, bring pickup code to designated convenience store counter for collection
+
+Overdue Handling: If not collected after expiration, packages will be returned to sender and refunded as appropriate (fresh products will not be reshipped).
+
+------------------------------------------------------------------------
+
+Q12-3: What should I check when receiving goods?
+
+A12-3: Inspection items:
+
+1. Outer box for damage, water leakage, or signs of tampering
+2. Temperature zone matches product labeling (frozen products should remain hard-frozen)
+3. Product quantity and specifications are correct
+4. Product appearance and smell are normal
+
+------------------------------------------------------------------------
+
+Q12-4: What should I do if I find missing or incorrect items?
+
+A12-4: Processing steps:
+
+1. Please take photos and contact customer service on the day of receipt
+2. Provide order number and photos
+3. Customer service will help arrange replacement shipment or refund
+
+------------------------------------------------------------------------
+
+Q12-5: Can I refuse delivery if I find damaged products upon receipt?
+
+A12-5: Yes. Handling method:
+
+1. Immediately inform delivery personnel and take photos for record
+2. After refusal, system will arrange return and process refund or replacement shipment
+
+------------------------------------------------------------------------
+
+Q12-6: What should I do if frozen products are thawed upon receipt?
+
+A12-6: Emergency handling:
+
+1. Take photos immediately and keep complete packaging
+2. Do not consume
+3. Contact customer service as soon as possible
+
+------------------------------------------------------------------------
+
+Q12-7: How long after pickup can I apply for after-sales service?
+
+A12-7: Application deadlines:
+
+- Fresh products: Must report issues within 24 hours of receipt
+- Room temperature food and non-food products: Must report within 7 days (excluding holidays)
+
+------------------------------------------------------------------------
+
+Q12-8: What should I do if I find abnormalities during proxy collection or convenience store pickup?
+
+A12-8: Same requirements:
+
+1. Take photos immediately
+2. Contact customer service within 24 hours
+
+Important: Delays may affect after-sales service rights.
+
+------------------------------------------------------------------------
+
+Q12-9: Can I pick up early?
+
+A12-9:
+
+Home Delivery: Must follow logistics delivery route schedule, early pickup not available
+
+Convenience Store Pickup: Can collect immediately after system status shows "Available for Pickup"
+
+------------------------------------------------------------------------
+
+Q12-10: What proof do I need to provide for pickup?
+
+A12-10: Required documents:
+
+Home Delivery:
+- Recipient signature only
+- Some high-value items require ID verification
+
+Convenience Store Pickup:
+- Provide pickup code or ID document
+- Must match recipient name on order

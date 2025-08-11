@@ -1,0 +1,105 @@
+5. Pricing & Promotions
+
+Q5-1: Are the prices on the website tax-inclusive?
+
+A5-1: Yes, all product prices are in New Taiwan Dollars (NTD) including tax, with no additional taxes charged at checkout.
+
+Additional Fees: Any shipping or special handling fees will be clearly indicated in the shopping cart and checkout page.
+
+------------------------------------------------------------------------
+
+Q5-2: How often are promotional activities updated?
+
+A5-2: Promotional periods vary based on seasons, holidays, or harvest seasons:
+
+Update Frequency:
+- Regular promotions: Usually updated weekly
+- Flash sales: Updated daily
+
+Receiving Notifications: You can subscribe to newsletters or enable APP push notifications to receive the latest offers.
+
+------------------------------------------------------------------------
+
+Q5-3: How do I get coupons?
+
+A5-3: Coupon sources include:
+- New member registration gifts
+- Holiday events or birthday gifts
+- Rewards for reaching spending thresholds
+- Social media activities and partner brand giveaways
+
+Usage: Once obtained, coupons are automatically stored in your member account and can be selected during checkout.
+
+------------------------------------------------------------------------
+
+Q5-4: Are there restrictions on coupon usage?
+
+A5-4: Each coupon has usage thresholds and expiration dates.
+
+Example Restrictions:
+- "NT$100 off when spending NT$1,000 or more"
+- Some products (such as pre-orders, sale items, gift boxes) may not be eligible
+
+How to Check: Detailed restrictions are displayed in the coupon description.
+
+------------------------------------------------------------------------
+
+Q5-5: Can I use multiple coupons in one order?
+
+A5-5: In most cases, only one coupon can be used at a time, with some activities being exceptions (noted in promotional terms).
+
+Combined Usage: However, coupons can be used simultaneously with point redemptions.
+
+------------------------------------------------------------------------
+
+Q5-6: How do I use point redemptions?
+
+A5-6: Each 1 point equals NT$1, and you can enter the redemption points on the checkout page.
+
+Usage Restrictions:
+- Redemption amount cannot exceed total order amount
+- Shipping fees usually cannot be paid with points
+
+------------------------------------------------------------------------
+
+Q5-7: How are minimum purchase/quantity discounts calculated?
+
+A5-7:
+
+Minimum Purchase Discounts:
+- Calculated based on single order product amount (excluding shipping)
+
+Minimum Quantity Discounts:
+- Calculated based on number of eligible items
+- For example, "15% off when buying 3 or more items" only applies to specified categories
+
+------------------------------------------------------------------------
+
+Q5-8: How do I choose add-on purchase items?
+
+A5-8: When your shopping cart meets add-on purchase conditions:
+
+Display Method: The system automatically shows available add-on items before checkout
+
+Promotional Features:
+- Prices are discounted from original prices
+- Limited quantities, first come first served
+
+------------------------------------------------------------------------
+
+Q5-9: Will prices change after I place an order?
+
+A5-9: No. Once you complete your order and payment, the system locks in the prices at the time of your order.
+
+Price Guarantee: Even if product prices increase or decrease later, no retroactive adjustments will be made.
+
+------------------------------------------------------------------------
+
+Q5-10: What should I do if checkout amount differs from product page amount?
+
+A5-10: Possible reasons include:
+- Coupons have been applied or have expired
+- Product prices have been updated but your page hasn't refreshed
+- Promotional period has ended
+
+Resolution: If confirmed to be a system error, please contact customer service immediately for correction.

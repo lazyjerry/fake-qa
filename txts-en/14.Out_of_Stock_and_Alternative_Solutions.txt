@@ -1,0 +1,85 @@
+14. Out of Stock & Alternative Solutions
+
+Q14-1: What happens if products are out of stock after I place an order?
+
+A14-1: Customer service will notify you immediately and provide the following options:
+- Replace with alternative products: Equivalent or higher value substitutes (we absorb the price difference)
+- Cancel and refund: Cancel the item and process refund
+- Wait for restock: If there's a confirmed arrival date
+
+------------------------------------------------------------------------
+
+Q14-2: How soon will out-of-stock notifications be sent?
+
+A14-2: Notification timeline:
+
+Regular Products: Discovered during pre-shipment inspection and notified within the same day
+
+Pre-order Items: If supply issues occur at source, notification within 1 business day after confirmation
+
+------------------------------------------------------------------------
+
+Q14-3: Will you seek approval before substituting products?
+
+A14-3: Yes, unless you've checked "Automatically accept equivalent substitutes" in member settings, customer service will confirm with you before shipping alternatives.
+
+------------------------------------------------------------------------
+
+Q14-4: How are price differences handled for substitute products?
+
+A14-4: Price handling:
+- If substitute is more expensive: We absorb the price difference
+- If substitute is less expensive: Difference refunded to original payment method or converted to shopping credit
+
+------------------------------------------------------------------------
+
+Q14-5: Can I choose not to accept substitute products?
+
+A14-5: Yes. You can choose to cancel that item and receive a refund, while other items ship normally.
+
+------------------------------------------------------------------------
+
+Q14-6: Will out-of-stock items be automatically reshipped?
+
+A14-6: No.
+
+Wait for Restock: If you choose to wait for restock, shipment will be arranged after product arrival
+
+Choose Refund: If you choose refund, no replacement shipment will be made
+
+------------------------------------------------------------------------
+
+Q14-7: What if out-of-stock items affect free shipping thresholds?
+
+A14-7: We will maintain the original free shipping benefit and won't charge additional shipping fees due to out-of-stock items.
+
+------------------------------------------------------------------------
+
+Q14-8: Are there alternative solutions when pre-order products are out of stock?
+
+A14-8: Yes, we provide based on your needs:
+- Same season products
+- Similar flavor or origin product substitutes
+- Or arrange refund
+
+------------------------------------------------------------------------
+
+Q14-9: How will out-of-stock notifications be communicated?
+
+A14-9: Based on your preference, possibly through:
+- SMS
+- Email
+- APP push notifications
+- Phone calls
+
+Important: Please ensure contact information in member profile is correct.
+
+------------------------------------------------------------------------
+
+Q14-10: How do I track long-term out-of-stock products?
+
+A14-10: Tracking methods:
+
+Product Page Tracking: You can click "Track/Notify When Available" on product pages, and we'll notify you immediately upon restock
+
+Restock Preview: Some products are announced in advance in the "Restock Preview" section

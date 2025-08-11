@@ -1,0 +1,105 @@
+9. Delivery Options
+
+Q9-1: What delivery methods are available?
+
+A9-1: We provide multiple delivery options:
+- Cold chain delivery (refrigerated/frozen)
+- Room temperature delivery
+- Convenience store pickup (supported for certain products and temperature zones)
+- Store-to-store delivery (specific events or partner stores)
+- Special delivery (live seafood, bulk purchase dedicated vehicles)
+
+------------------------------------------------------------------------
+
+Q9-2: How is shipping calculated?
+
+A9-2: Shipping fees vary by delivery temperature zone, region, and shipping method:
+
+Shipping Rates:
+- Room temperature: NT$100-150
+- Refrigerated/Frozen: NT$150-200
+- Convenience store pickup: NT$60-80
+
+Free Shipping Threshold: Free shipping thresholds are clearly indicated on checkout page (e.g., free shipping on orders over NT$1,500).
+
+------------------------------------------------------------------------
+
+Q9-3: Can products from different temperature zones be shipped together?
+
+A9-3: Yes, but different temperature zones require separate shipping, which may result in:
+- Multiple shipping fees
+- Different delivery dates
+
+------------------------------------------------------------------------
+
+Q9-4: How long does delivery take?
+
+A9-4: Delivery timeframes:
+- Room temperature/refrigerated/frozen home delivery: 1-3 business days after order
+- Convenience store pickup: 2-4 days after shipment
+- Pre-order products: Based on estimated shipping date on product page
+
+Delays: May be delayed due to holidays or weather conditions.
+
+------------------------------------------------------------------------
+
+Q9-5: Can I specify delivery time slots?
+
+A9-5:
+
+Home Delivery:
+Time slots available (morning, afternoon, evening), but actual delivery time depends on logistics company operations and route arrangements
+
+Convenience Store Pickup: Time slot specification not supported
+
+------------------------------------------------------------------------
+
+Q9-6: Which areas require additional shipping fees or don't offer delivery?
+
+A9-6: Remote areas and offshore islands (Penghu, Kinmen, Matsu, etc.) may have:
+- Additional shipping fees
+- Temperature zone delivery restrictions
+
+Fee Calculation: Detailed regions and additional fees are automatically calculated during checkout.
+
+------------------------------------------------------------------------
+
+Q9-7: How do I track packages during delivery?
+
+A9-7: Shipping notifications sent after dispatch:
+
+Notification Methods:
+- SMS/Email/APP push notifications
+- Include logistics tracking code and query link
+
+View Progress: Members can check delivery progress in "My Orders".
+
+------------------------------------------------------------------------
+
+Q9-8: What happens if I'm not home during delivery?
+
+A9-8:
+
+Home Delivery: Will arrange redelivery or store at nearby pickup station based on recipient situation
+
+Convenience Store Pickup: Packages held for 7 days, returned to sender if not collected after expiration
+
+------------------------------------------------------------------------
+
+Q9-9: How are live seafood products delivered?
+
+A9-9: Live seafood uses:
+- Dedicated cold chain express delivery
+- Insulated boxes with oxygen bags for shipping
+
+Quality Guarantee: Ensures products arrive alive
+
+Restrictions: Some areas have limited delivery dates and times
+
+------------------------------------------------------------------------
+
+Q9-10: Do you offer overseas shipping?
+
+A9-10: Currently only deliver to Taiwan main island and some offshore islands, no cross-border shipping available.
+
+Corporate Needs: For corporate partnership needs, please contact customer service to discuss project delivery options.

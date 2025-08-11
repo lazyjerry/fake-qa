@@ -1,0 +1,88 @@
+17. Subscription/Regular Delivery
+
+Q17-1: What is subscription/regular delivery?
+
+A17-1: Subscription allows you to set up automatic regular delivery of specific products (such as milk, eggs, vegetable boxes, coffee beans, etc.).
+
+Benefits:
+- Eliminates the hassle of placing orders each time
+- Enjoy exclusive discounted prices
+
+------------------------------------------------------------------------
+
+Q17-2: Can I choose delivery frequency?
+
+A17-2: Yes, multiple cycle options are supported:
+- Weekly
+- Bi-weekly
+- Monthly
+
+You can set according to your needs.
+
+------------------------------------------------------------------------
+
+Q17-3: Will subscription product prices change?
+
+A17-3: Prices usually remain fixed during the subscription period.
+
+Price Adjustments: However, in case of major cost changes (such as significant raw material price increases), we will notify in advance and seek your consent before adjusting.
+
+------------------------------------------------------------------------
+
+Q17-4: Do subscription plans include free shipping?
+
+A17-4: Most subscription plans include free shipping or calculate at lower shipping rates.
+
+Detailed Conditions: Will be indicated on the plan page.
+
+------------------------------------------------------------------------
+
+Q17-5: Can I pause or skip a delivery?
+
+A17-5: Yes, 3 days before delivery, you can select pause or skip in "My Subscriptions" in the member center, which won't affect subsequent deliveries.
+
+------------------------------------------------------------------------
+
+Q17-6: How do I cancel my subscription?
+
+A17-6: You can cancel anytime in the member center:
+- After cancellation, no more automatic charges or deliveries
+- If the next scheduled delivery has already entered the shipping process, it will still be delivered normally
+
+------------------------------------------------------------------------
+
+Q17-7: What payment methods are supported?
+
+A17-7: Supported:
+- Credit card automatic deduction
+- Some mobile payments (LINE Pay automatic deduction, Apple Pay)
+
+Authorization: First-time subscription requires one-time authorization completion.
+
+------------------------------------------------------------------------
+
+Q17-8: Can I change delivery address or time?
+
+A17-8: Yes:
+
+Before Shipment: Modify delivery information in "My Subscriptions" before shipment
+
+After Shipment: If already in delivery process, contact customer service for assistance with changes
+
+------------------------------------------------------------------------
+
+Q17-9: Do subscription plans have minimum contract periods?
+
+A17-9: Most products have no minimum contract period and can be cancelled anytime.
+
+Special Offer Plans: Some special offer plans may require commitment to a certain number of periods, which will be clearly indicated in the plan description.
+
+------------------------------------------------------------------------
+
+Q17-10: Can subscription products be delivered together with other products?
+
+A17-10: Depends on conditions:
+
+Can Combine: If delivery dates are the same and temperature zones match, system will combine delivery
+
+Separate Delivery: If conditions differ, they will be delivered separately with separate shipping fee calculations

@@ -1,0 +1,47 @@
+2. Product Browsing & Search
+
+Q2-1: How can I quickly find the products I want?
+
+A2-1: You can find products through the following methods:
+- Homepage categories and main menu
+- Search bar with keywords
+- Activity sections and recommendation lists
+
+Fuzzy search function:
+For example, typing "salmon" will also display related products like "salmon slices", "salmon roe", etc.
+
+------------------------------------------------------------------------
+
+Q2-2: Can I filter search results?
+
+A2-2: Yes. You can filter by the following criteria:
+- Temperature zone: Room temperature / Refrigerated / Frozen
+- Price range
+- Brand / Origin
+- Product status: In stock / Pre-order
+- Promotional activities: Discounts, spend & get, add-on purchases
+- Rating level
+
+------------------------------------------------------------------------
+
+Q2-3: What sorting options are available for products?
+
+A2-3: The following sorting methods are supported:
+- Newest arrivals
+- Best sellers
+- Price: Low to high / High to low
+- Highest rated
+- Almost sold out
+
+------------------------------------------------------------------------
+
+Q2-4: How do I view product categories?
+
+A2-4: The homepage or sidebar provides hierarchical categories, for example:
+
+    Seafood → Fish → Salmon → Salmon slices / Salmon roe
+    Fruits & Vegetables → Fruits → Mango → Irwin mango
+
+After clicking a category, you can use filters to narrow down the range.
+
+------------------------------------------------------------------------

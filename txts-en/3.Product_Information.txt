@@ -1,0 +1,44 @@
+3. Product Information
+
+Q3-1: Where can I find product origin information?
+
+A3-1: Each product page clearly indicates the origin in the "Product Details" or "Specifications" section.
+
+Examples:
+- "Hokkaido, Japan"
+- "Chiayi, Taiwan"
+
+Imported products: Will also note the importer's name.
+
+------------------------------------------------------------------------
+
+Q3-2: How are product weight and specifications calculated?
+
+A3-2:
+
+Weight calculation:
+- Usually net weight (excluding packaging)
+- Fresh products with shells or ice coating will note "weight with shell" or "ice coating percentage"
+
+Specification labeling:
+- Labeled by package quantity or unit
+- Example: 200g±10g/pack, 10 pieces/box
+
+------------------------------------------------------------------------
+
+Q3-3: How do I check storage methods and expiration dates?
+
+A3-3: Product pages will indicate:
+
+Storage conditions:
+- Room temperature / Refrigerated / Frozen
+
+Expiration date:
+- Calculated from shipping date
+- Provides "remaining days" or expiration date
+- Example: "Expiration date: 2025/09/30"
+
+Usage recommendations:
+- Recommended to consume as soon as possible after opening
+
+------------------------------------------------------------------------

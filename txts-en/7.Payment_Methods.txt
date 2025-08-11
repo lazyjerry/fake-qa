@@ -1,0 +1,74 @@
+7. Payment Methods
+
+Q7-1: What payment methods are available?
+
+A7-1: Our website offers multiple payment methods:
+
+Credit Cards:
+- VISA / MasterCard / JCB / UnionPay
+
+Mobile Payments:
+- Apple Pay, Google Pay, LINE Pay, Jkopay
+
+Bank Transfer:
+- Online ATM / Virtual account transfer
+
+Convenience Store Payment:
+- 7-Eleven / FamilyMart / OK Mart / Hi-Life
+
+Other Methods:
+- Cash on delivery (supported for certain areas and temperature zone products)
+- Installment payments (designated banks, handling fees charged based on installment periods)
+
+------------------------------------------------------------------------
+
+Q7-2: Is credit card payment secure?
+
+A7-2: We use multiple security protections:
+
+Encryption Technology:
+- SSL 256-bit encrypted transmission
+- Supports 3D Secure verification (such as VISA Verified by Visa service)
+
+Data Protection: Credit card information is not stored on our website.
+
+------------------------------------------------------------------------
+
+Q7-3: Are there additional fees for cash on delivery?
+
+A7-3: Yes, handling fees (approximately NT$30-50) are charged according to logistics company regulations.
+
+Fee Display: Fees will be clearly shown on the checkout page
+
+Restrictions: Not applicable for certain remote areas or high-value products
+
+------------------------------------------------------------------------
+
+Q7-4: How long does it take to confirm ATM transfer payments?
+
+A7-4: After virtual account transfer:
+
+Normal situation: System takes approximately 10-30 minutes to automatically verify payment
+
+Special cases: For inter-bank or overnight transfers, may be delayed until the next morning for updates
+
+------------------------------------------------------------------------
+
+Q7-5: What's the process for convenience store code payment?
+
+A7-5: Process:
+
+1. After checkout, the system will provide a 20-digit payment code
+2. Please go to any supported convenience store kiosk within the deadline (usually 3 days) to make payment
+3. Expired codes will become invalid and require placing a new order
+
+------------------------------------------------------------------------
+
+Q7-6: How do mobile payments work?
+
+A7-6: After selecting Apple Pay / Google Pay / LINE Pay:
+
+1. The system will redirect to the corresponding payment interface to complete payment
+2. After payment completion, you'll automatically return to the order page
+
+------------------------------------------------------------------------

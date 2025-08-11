@@ -1,0 +1,135 @@
+1. Account & Login
+
+Q1-1: How do I register an account? What information is required?
+
+A1-1: Click "Register/Join as Member". You can create an account using your phone number or email, and we also support one-click registration with Google/Apple/Facebook/LINE.
+
+Required fields:
+- Name (or preferred name)
+- Phone number or Email
+- Password
+
+Optional items:
+- Marketing consent
+- Electronic invoice carrier binding
+
+------------------------------------------------------------------------
+
+Q1-2: Can I place an order without registering?
+
+A1-2: We support guest checkout. However, we recommend registering so you can:
+- Check order status
+- Track shipments
+- Apply for returns/exchanges and invoice inquiries
+- Accumulate points and enjoy member benefits
+
+------------------------------------------------------------------------
+
+Q1-3: What should I do if I don't receive the verification SMS/Email?
+
+A1-3:
+
+SMS issues:
+- Confirm your number hasn't blocked commercial SMS and has good signal
+- Request a new verification code (60-second intervals between requests)
+- Try voice verification instead
+
+Email issues:
+- Check your spam folder
+- Add @chih-haoliao.tw (example domain) to your trusted sender list
+- Wait 3-5 minutes and try again
+- If still unable, please contact customer service
+
+------------------------------------------------------------------------
+
+Q1-4: How do I reset my password if I forgot it?
+
+A1-4: On the login page, click "Forgot Password", enter your registered phone number or email, follow the instructions to receive a verification code/reset link and complete the setup within 30 minutes. If you have 2FA enabled, you'll also need to pass the second-step verification.
+
+------------------------------------------------------------------------
+
+Q1-5: How do I enable two-factor authentication (2FA)?
+
+A1-5: Go to Account Security → Enable 2FA, you can choose:
+- Authenticator App (recommended): Scan QR code to create one-time passwords
+- SMS verification: Receive verification codes for each login
+
+Important: Please download backup recovery codes in case you lose your phone.
+
+------------------------------------------------------------------------
+
+Q1-6: I logged in with a social media account, can I link a phone/email?
+
+A1-6: Yes. Go to Account & Binding, add your phone/email and complete verification, then you can log in using the new method. You can also unlink social media accounts (but keep at least one login method to avoid account lockout).
+
+------------------------------------------------------------------------
+
+Q1-7: What's the process for changing my phone number or email?
+
+A1-7: Process:
+1. Go to Personal Information
+2. Click Edit Contact Information
+3. Enter new phone/email
+4. Receive verification code/link to complete the change
+
+Special cases: If your original number is no longer valid and you have 2FA enabled, please use identity verification (order information + last 4 digits of ID or other supporting documents) and contact customer service for assistance.
+
+------------------------------------------------------------------------
+
+Q1-8: I found I have two duplicate accounts, can they be merged?
+
+A1-8: You can apply for account merging (prerequisite: both accounts belong to the same person).
+
+Merging process:
+1. Submit login methods and basic information for both accounts
+2. After customer service verification, the primary account will be retained
+3. Points, coupons, and address book will be merged
+4. Order history will be transferred or retain query permissions according to system rules
+
+------------------------------------------------------------------------
+
+Q1-9: How should I handle unusual login/device notifications?
+
+A1-9: If you receive "new device login" or "unusual attempt" notifications:
+1. Immediately change your password and check recent login records
+2. In Security Settings, click "Log out all devices"
+3. Enable/strengthen 2FA
+
+Note: If you still have concerns, please contact customer service to freeze your account.
+
+------------------------------------------------------------------------
+
+Q1-10: How do I log out of all devices?
+
+A1-10: Path: Account Security → Manage Devices → Log out all devices
+
+Impact: This action will require all logged-in phones/computers to re-enter passwords and 2FA.
+
+------------------------------------------------------------------------
+
+Q1-11: Can I delete my account and personal data?
+
+A1-11: You can apply for deletion in Privacy & Personal Data.
+
+Important notes:
+- Deletion cannot be undone
+- Points/coupons will become invalid
+- Due to accounting and tax regulations, necessary transaction-related data and invoice information will be retained according to legal retention periods and processed for de-identification
+
+------------------------------------------------------------------------
+
+Q1-12: Login keeps failing/showing errors, how do I troubleshoot?
+
+A1-12: Please check in order:
+
+Basic checks:
+- Confirm account and password are correct
+- Confirm time zone and system time are correct
+
+Browser settings:
+- Disable browser blocking of third-party cookies (required for social login)
+- Disable ad/privacy plugins and retry
+- Try incognito/private browsing mode
+- Update app to latest version
+
+Still can't resolve: Please screenshot the error screen for customer service.

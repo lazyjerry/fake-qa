@@ -1,0 +1,124 @@
+6. Shopping Cart & Checkout Process
+
+Q6-1: How do I add products to my shopping cart?
+
+A6-1: On the product page, select quantity and specifications, then click "Add to Cart".
+
+Important Note: If products have different specifications (such as weight, flavor), please select them first before adding.
+
+------------------------------------------------------------------------
+
+Q6-2: How long are items kept in the shopping cart?
+
+A6-2: Storage time depends on login status:
+
+Not Logged In:
+- Shopping cart temporarily stored in browser for 7 days
+
+Logged-in Members:
+- System cloud storage for 30 days
+
+Important Reminder: Fresh in-stock products don't guarantee inventory availability, recommend checking out early.
+
+------------------------------------------------------------------------
+
+Q6-3: Can I purchase products from different temperature zones at once?
+
+A6-3: Yes, but different temperature zones (room temperature/refrigerated/frozen) will:
+- Ship separately
+- Calculate shipping fees and free shipping thresholds separately
+- System automatically splits orders during checkout
+
+------------------------------------------------------------------------
+
+Q6-4: Can I change product quantities in the shopping cart?
+
+A6-4: Yes, you can directly adjust quantities and update amounts on the shopping cart page.
+
+When Stock is Insufficient: System will prompt the maximum purchasable quantity.
+
+------------------------------------------------------------------------
+
+Q6-5: Do shopping cart items automatically update prices?
+
+A6-5: Yes. If promotional periods end or offers expire after you add products to cart, prices will be calculated based on current selling prices.
+
+Recommendation: Please confirm amounts again before checkout.
+
+------------------------------------------------------------------------
+
+Q6-6: How do I use coupons or points?
+
+A6-6:
+
+Using Coupons:
+- Enter coupon code in shopping cart or checkout page
+- Or select from "Available Coupons" list
+
+Point Redemption:
+- Enter amount in redemption field
+- System automatically calculates discounted amount
+
+------------------------------------------------------------------------
+
+Q6-7: What is the order process?
+
+A6-7: Complete order process:
+
+1. Confirm shopping cart contents
+2. Log in as member (or choose guest checkout)
+3. Fill in delivery information and invoice details
+4. Select delivery method and time slot
+5. Choose payment method
+6. Confirm order
+7. Complete payment and receive order number
+
+------------------------------------------------------------------------
+
+Q6-8: Can I add notes to my order?
+
+A6-8: Yes. Enter requirements in the "Order Notes" field on the checkout page.
+
+Example Notes:
+- "Add ribbon to gift box"
+- "Please add extra ice packs for cold delivery"
+
+Special Requests: If requests exceed delivery scope, customer service will contact you for confirmation.
+
+------------------------------------------------------------------------
+
+Q6-9: Do you provide gift wrapping and greeting cards?
+
+A6-9: Some products support this, selectable on checkout page:
+- Gift wrapping
+- Greeting card attachment
+- Fill in card content
+
+Fees: This service may incur additional charges.
+
+------------------------------------------------------------------------
+
+Q6-10: Can I modify my order after checkout?
+
+A6-10: Within 30 minutes after order submission, you can apply for modifications in "My Orders".
+
+Modifiable Items:
+- Delivery information
+- Invoice details
+
+Non-modifiable:
+- Products and quantities
+
+Order Cancellation: If cancellation is needed, please contact customer service; acceptance depends on shipping status.
+
+------------------------------------------------------------------------
+
+Q6-11: How do I confirm my order has been placed?
+
+A6-11: After completing payment:
+
+Immediate Confirmation:
+- System immediately displays order number
+- Sends Email/APP notification
+
+View Details: You can check details and status in Member Center → My Orders.

@@ -1,0 +1,112 @@
+4. Inventory, Pre-orders & Arrival Notifications
+
+Q4-1: How do I know if a product is still in stock?
+
+A4-1: Product pages display inventory status:
+
+Stock Status:
+- In stock
+- Low stock
+- Sold out
+
+Quantity Display: Some products show remaining quantity (e.g., "5 items left") to help you place orders promptly.
+
+------------------------------------------------------------------------
+
+Q4-2: Can I pre-order out-of-stock products?
+
+A4-2: If the product supports pre-orders, the page will display a "Pre-order Now" button with estimated shipping/arrival dates.
+
+No Pre-order Option: You can set up arrival notifications.
+
+------------------------------------------------------------------------
+
+Q4-3: What are pre-order products?
+
+A4-3: Pre-order products are items that have not yet arrived or are currently being produced/harvested.
+
+Pre-order Features:
+- Can place orders in advance to reserve quantity
+- Ships in order sequence after arrival
+- Same payment rules as in-stock items
+- Delivery time calculated from actual arrival date
+
+------------------------------------------------------------------------
+
+Q4-4: Can I checkout pre-order and in-stock items together?
+
+A4-4: Yes, but there are two handling methods:
+
+Method 1: Automatic Order Splitting
+- System automatically splits orders for shipping
+- Shipping fees and free shipping thresholds calculated separately
+
+Method 2: Wait for Combined Shipping
+- Choose to wait for pre-order items to arrive before shipping together
+
+------------------------------------------------------------------------
+
+Q4-5: How long does it take to restock out-of-stock products?
+
+A4-5: Restocking time varies by product category:
+
+Restocking Schedule:
+- Room temperature imported products: Approximately 7-14 days
+- Frozen seafood, refrigerated meat: Depending on fishing/production season, may take 2-4 weeks
+- Seasonal fruits: Depends on harvest season and weather conditions
+
+How to Check: Actual restocking time will be displayed on the arrival notification page.
+
+------------------------------------------------------------------------
+
+Q4-6: How do I set up arrival notifications?
+
+A4-6: On out-of-stock product pages, click "Notify Me When Available":
+
+Setup Method:
+- Enter phone number or email
+- Logged-in members can use linked information directly
+
+Notification Method: SMS/Email/APP push notifications sent immediately when products are restocked.
+
+------------------------------------------------------------------------
+
+Q4-7: Do arrival notifications reserve products for me?
+
+A4-7: No, notifications only alert you that products have been restocked and do not automatically reserve or place orders.
+
+Recommendation: Purchase promptly after receiving notifications to avoid selling out again.
+
+------------------------------------------------------------------------
+
+Q4-8: Why does a product show as available but I can't add it to cart?
+
+A4-8: Possible reasons:
+- Remaining stock is less than your desired quantity
+- System hasn't completed inventory synchronization (try again later)
+- Special items require phone or customer service ordering
+- Temperature zone incompatible with other selected items for same-order shipping
+
+------------------------------------------------------------------------
+
+Q4-9: Can pre-order arrival dates change?
+
+A4-9: Yes, it's possible. Fresh food products may be affected by:
+
+Influencing Factors:
+- Weather conditions
+- Seasonal variations
+- Logistics
+
+Change Handling: If changes occur, you'll be notified via SMS/Email/push notification and can choose to:
+- Wait
+- Cancel order with full refund
+
+------------------------------------------------------------------------
+
+Q4-10: Can I view a list of upcoming restocks?
+
+A4-10: Yes. On the "Restock Preview" page you can browse:
+- Items scheduled for restocking soon
+- Expected listing dates
+- Direct setup of arrival notifications

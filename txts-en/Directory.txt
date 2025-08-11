@@ -1,0 +1,33 @@
+Fresh Delights Online Grocery Store Fake QA Directory
+
+Disclaimer
+
+This website does not exist. This website is a fictional fresh grocery platform, used solely to demonstrate the classification and examples of common e-commerce customer service questions. All Q&A content below is simulated scenarios and does not represent the policies or service content of any real merchants. This document aims to provide reference for e-commerce professionals to help establish a comprehensive customer service Q&A system.
+
+Category Overview
+
+1.  Account & Login
+2.  Product Browsing & Search (categorization, filtering, sorting, comparison)
+3.  Product Information (origin/specifications/weight/storage methods/temperature zones: room temperature/refrigerated/frozen/expiration dates)
+4.  Inventory, Pre-orders & Arrival Notifications (out-of-stock subscriptions, estimated arrival dates)
+5.  Pricing & Promotions (discounts, coupons, minimum purchase/quantity deals, add-on purchases, combo meals)
+6.  Shopping Cart & Checkout Process (notes, gift wrapping, invoice information entry)
+7.  Payment Methods (credit card/LINE Pay/Apple Pay/ATM transfer/cash on delivery/installments)
+8.  Electronic Invoices & Expense Reporting (carriers, company headers, triplicate invoices, donations, return allowances)
+9.  Delivery Options (cold chain delivery/room temperature, delivery time slots, shipping fees & free shipping thresholds, remote area surcharges)
+10. Delivery Times & Logistics Issues (delays, weather/typhoons, non-deliverable areas)
+11. Packaging & Freshness (cooling materials/dry ice, eco-friendly packaging, unboxing instructions)
+12. Pickup & Inspection (on-site inspection, temperature breach/thawing, delivery confirmation notes)
+13. Returns & Refunds (fresh produce 7-day return exceptions, reporting deadlines, photo evidence, partial refunds/replacements)
+14. Out of Stock & Alternative Solutions (equivalent product substitutions, cancellation/partial shipments)
+15. Customer Service & After-sales (contact channels, response hours, LINE official account, live chat)
+16. Membership & Points (tiers, rewards, birthday gifts, missions, referral codes)
+17. Subscription/Regular Delivery (fixed delivery, cycle changes, skip/pause/cancel)
+18. Food Safety & Allergy Information (ingredients, allergens, inspection reports, traceability/organic certification)
+19. Special Items (live seafood, fresh catch/pre-orders, aged meat, custom cuts, gift boxes)
+20. Bulk/Corporate Purchasing (quotes, monthly billing, invoice issuance process, customization)
+21. Events & Marketing (seasonal pre-orders, early bird offers, flash sales, member days)
+22. User Reviews & Community Guidelines (review uploads, moderation, violation handling)
+23. Account Settings & Security (password reset, two-factor authentication, data deletion, privacy)
+24. Device/Technical Issues (APP/browser compatibility, payment failures, error code troubleshooting)
+25. Regional & Cross-border (offshore delivery restrictions, temperature zone limitations, customs/prohibited items explanation)

@@ -1,0 +1,109 @@
+8. Electronic Invoices & Expense Reporting
+
+Q8-1: Do you provide electronic invoices?
+
+A8-1: Yes, we use electronic invoices site-wide.
+
+Issuance Process:
+- Automatically issued according to your selected invoice type after checkout completion
+- Sent to your email or uploaded to your designated carrier
+
+------------------------------------------------------------------------
+
+Q8-2: Can I choose the invoice type?
+
+A8-2: Yes, we support:
+- Duplicate electronic invoice (individual)
+- Triplicate electronic invoice (company expense reporting)
+- Donated invoice (designated charity code)
+
+------------------------------------------------------------------------
+
+Q8-3: What is an invoice carrier?
+
+A8-3: An invoice carrier is a method for storing electronic invoices:
+
+Carrier Types:
+- Mobile barcode
+- Natural person certificate barcode
+- Member carrier (directly linked to your account)
+
+Usage: Can be entered during checkout or selected from member profile.
+
+------------------------------------------------------------------------
+
+Q8-4: What should I do if I need it for company expense reporting?
+
+A8-4: Please during checkout:
+
+1. Select triplicate invoice
+2. Fill in company name and unified business number
+3. System will automatically issue and send electronic invoice to your designated carrier or email after payment completion
+
+------------------------------------------------------------------------
+
+Q8-5: Can invoices be sent in paper format?
+
+A8-5: Generally, paper copies are not sent.
+
+Paper Requirements: If you need paper invoices:
+- Check "Paper Invoice" when placing order
+- Fill in delivery address
+- May incur additional mailing fees
+
+------------------------------------------------------------------------
+
+Q8-6: Can I change invoice information afterwards?
+
+A8-6: According to Ministry of Finance regulations, invoice headers and unified business numbers cannot be modified after issuance.
+
+Error Handling: If filled incorrectly:
+1. Must first process return and refund
+2. Place new order with correct information
+
+------------------------------------------------------------------------
+
+Q8-7: How do I set up invoice donation?
+
+A8-7: Select "Donate Invoice" on checkout page:
+
+Setup Method:
+- Enter charity code
+- Or select from system-provided charity organization list
+
+Automatic Processing: System automatically donates invoice to the organization after checkout completion.
+
+------------------------------------------------------------------------
+
+Q8-8: When are invoices issued?
+
+A8-8: Issuance Schedule:
+
+Regular Products: Electronic invoices issued within 1-3 business days after payment completion
+
+Pre-order Products: Issued upon actual shipment
+
+Notification Method: Invoice number will be notified after issuance
+
+------------------------------------------------------------------------
+
+Q8-9: How do I check issued invoices?
+
+A8-9: Query Methods:
+
+Member Query:
+1. Log in to member account → Order History
+2. Click order details
+3. View invoice number and download PDF file
+
+Carrier Query: If using mobile barcode/natural person certificate, you can query at the Ministry of Finance Electronic Invoice Integration Platform.
+
+------------------------------------------------------------------------
+
+Q8-10: How are invoices handled for returns or order cancellations?
+
+A8-10: After successful return:
+
+General Processing: System will issue an allowance note and notify you
+
+Winning Invoices: If the invoice has already won a prize, you must complete prize redemption before processing return and refund

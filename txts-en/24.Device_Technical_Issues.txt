@@ -1,0 +1,100 @@
+24. Device/Technical Issues
+
+Q24-1: What should I do if the website or APP won't open?
+
+A24-1: Troubleshooting steps:
+
+1. Check internet connection
+2. Try refreshing the page or restarting the APP
+3. If still unusable, recommend clearing browser cache or reinstalling APP
+
+------------------------------------------------------------------------
+
+Q24-2: How do I handle browser errors or layout issues?
+
+A24-2: Solutions:
+
+1. Please use the latest version of Chrome, Safari, Firefox, or Edge
+2. Disable ad blockers or privacy plugins
+3. Refresh the page
+
+------------------------------------------------------------------------
+
+Q24-3: What causes payment page freezing or failures?
+
+A24-3: Common causes:
+- Unstable internet connection
+- Browser cache errors
+- Payment method authorization failure
+
+Solutions: Recommend trying again, or switching browsers and devices
+
+------------------------------------------------------------------------
+
+Q24-4: Does the mobile APP have the same features as the website?
+
+A24-4: Main features are the same, but the APP additionally provides:
+- Push notifications
+- Barcode scanning to find products
+- Offline browsing of shopping cart and other features
+
+------------------------------------------------------------------------
+
+Q24-5: What should I do when login shows verification failure?
+
+A24-5: Processing steps:
+
+1. Please confirm if account and password are correct
+2. If entered incorrectly multiple times, system will temporarily lock account for 15 minutes
+3. If password is forgotten, use "Forgot Password" function to reset
+
+------------------------------------------------------------------------
+
+Q24-6: What should I do if images or videos load slowly?
+
+A24-6: May be due to slow internet speed, recommend:
+- Switch to more stable network environment
+- Browse during off-peak hours
+- Try updating APP or clearing cache
+
+------------------------------------------------------------------------
+
+Q24-7: How do I clear APP cache?
+
+A24-7: Clearing methods:
+
+iOS: Delete and reinstall APP
+
+Android: Go to "Settings → Apps → Fresh Delights Online Grocery → Storage → Clear Cache"
+
+------------------------------------------------------------------------
+
+Q24-8: What should I do when "System Error" appears during checkout?
+
+A24-8: Processing steps:
+
+1. Please note down error message or take screenshot
+2. Refresh and try again
+3. If problem persists, please report screenshot along with browser/APP version and operating system to customer service
+
+------------------------------------------------------------------------
+
+Q24-9: Which devices and operating systems does the website support?
+
+A24-9: Supported systems:
+
+Desktop/Laptop:
+- Windows 10 and above
+- macOS 10.14 and above
+
+Mobile/Tablet:
+- iOS 14 and above
+- Android 8.0 and above
+
+Recommendation: Use latest browser and APP versions for optimal experience
+
+------------------------------------------------------------------------
+
+Q24-10: Can I log in on multiple devices simultaneously?
+
+A24-10: Yes, but if the system detects abnormal logins (such as simultaneous logins from different countries), it may trigger security verification to protect your account.
